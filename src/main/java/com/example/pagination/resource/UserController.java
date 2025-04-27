@@ -1,6 +1,7 @@
 package com.example.pagination.resource;
 
 import com.example.pagination.service.UserService;
+import com.example.pagination.utils.HttpResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

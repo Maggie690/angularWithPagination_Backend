@@ -1,4 +1,4 @@
-package com.example.pagination.resource;
+package com.example.pagination.utils;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Data;
